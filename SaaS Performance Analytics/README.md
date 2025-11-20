@@ -31,6 +31,14 @@ Customer lifetime value (LTV)
 
 The dataset is concise, with one row per month. This structure allows clear month to month trend evaluation and serves as a clean example for understanding SaaS metric behavior.
 
+**Business Questions Answered**
+Why are users churning?
+What is our Monthly Recurring Revenue (MRR)?
+What’s our Customer Lifetime Value (LTV)?
+How sticky is the product (DAU/MAU ratio)?
+What is our monthly churn rate?
+How efficient is our marketing spend (CAC)?
+Are we growing sustainably?
 
 ## Dashboard Features and Metrics
 
